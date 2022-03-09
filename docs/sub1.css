@@ -70,7 +70,9 @@
    --expand-height:390px;
  }
  
-
+ .menubox-1 > ul {
+ }
+ 
  .menubox-1 > ul > li {
    position: relative;
  }
@@ -525,7 +527,7 @@
     margin-top:100px;
   margin-left:30px;
    margin-right:30px;
-  
+   p:100px;
  }
  .street-box-3{
    margin-right:350px;
@@ -574,7 +576,7 @@
     margin-top:100px;
   margin-left:30px;
    margin-right:30px;
-   
+   p:100px;
  }
  .binoculars-box-3{
    margin-right:350px;
@@ -615,7 +617,9 @@
  .binoculars-3:hover {
    transform: scale(1.10);
  }
-
+ footer>img{
+   margin-top:500px;
+ }
  
  /*Accessories*/
  .Accessories-1 {
@@ -658,10 +662,11 @@
  .Accessories-btn:hover{
    cursor:pointer;
  }
-
+ 
+ 
  .foo{
-  position:absolute;
-  left:280px;
-  margin-top:200px;
-  padding-bottom:100px;
-}
+   position:absolute;
+   left:280px;
+   margin-top:100px;
+   padding-bottom:100px;
+ }
