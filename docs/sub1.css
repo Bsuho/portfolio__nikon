@@ -619,7 +619,7 @@
  /*Accessories*/
  .Accessories-1 {
    position: absolute;
-   bottom: 400px;
+   bottom: 230px;
    left: 865px;
    transition: transform 0.5s;
  }
@@ -629,7 +629,7 @@
  }
  .Accessories-2 {
    position: absolute;
-   bottom: 400px;
+   bottom: 230px;
    left: 1172px;
    transition: transform 0.5s;
  }
@@ -639,7 +639,7 @@
  }
  .Accessories-3 {
    position: absolute;
-   bottom: 400px;
+   bottom: 230px;
    left: 1515px;
    transition: transform 0.5s;
  }
