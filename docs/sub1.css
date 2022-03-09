@@ -616,10 +616,11 @@
    transform: scale(1.10);
  }
 
+ 
  /*Accessories*/
  .Accessories-1 {
    position: absolute;
-   bottom: 230px;
+   bottom: 400px;
    left: 865px;
    transition: transform 0.5s;
  }
@@ -629,7 +630,7 @@
  }
  .Accessories-2 {
    position: absolute;
-   bottom: 230px;
+   bottom: 400px;
    left: 1172px;
    transition: transform 0.5s;
  }
@@ -639,7 +640,7 @@
  }
  .Accessories-3 {
    position: absolute;
-   bottom: 230px;
+   bottom: 400px;
    left: 1515px;
    transition: transform 0.5s;
  }
@@ -658,8 +659,7 @@
    cursor:pointer;
  }
 
-
- footer{
+ .foo{
   position:absolute;
   left:280px;
   margin-top:200px;
